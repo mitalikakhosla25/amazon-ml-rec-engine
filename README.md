@@ -12,8 +12,6 @@ This project combines modern NLP-based semantic search with collaborative filter
 ---
 
 ## Project Overview
-<img width="253" height="533" alt="image" src="https://github.com/user-attachments/assets/6b8a41cb-f415-4568-8cac-af5886dece2f" />
-
 
 Traditional e-commerce search relies heavily on keyword matching, which often fails to capture user intent.
 
