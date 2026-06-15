@@ -1,22 +1,7 @@
 #  Multi-Modal Search & Recommendation System
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue" />
-  <img src="https://img.shields.io/badge/Streamlit-Live-red" />
-  <img src="https://img.shields.io/badge/NLP-SentenceTransformers-green" />
-  <img src="https://img.shields.io/badge/Recommender-SVD-orange" />
-  <img src="https://img.shields.io/badge/Status-Deployed-success" />
-</p>
-
 <p align="center">
   <b>Semantic Search • Personalized Recommendations • Interactive ML Visualization</b>
 </p>
-
-<p align="center">
-  <a href="https://searchnrec.streamlit.app/"> Live Demo</a>
-</p>
-
----
 
 ##  Live Demo
 
