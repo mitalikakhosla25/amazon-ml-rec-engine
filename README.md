@@ -96,4 +96,5 @@ Note: On first run, search_engine.py will download and cache the all-MiniLM-L6-v
 
 bashstreamlit run app.py
 
-Opens at http://localhost:8501. The sidebar simulates user login (select any User ID 1–50) and displays personalised SVD recommendations. The main panel accepts free-text queries and returns the top-5 semantically similar products with cosine similarity scores and an expandable linear-algebra explainer.
+Opens at https://searchnrec.streamlit.app/
+The sidebar simulates user login (select any User ID 1–50) and displays personalised SVD recommendations. The main panel accepts free-text queries and returns the top-5 semantically similar products with cosine similarity scores and an expandable linear-algebra explainer.
