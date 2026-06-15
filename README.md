@@ -1,5 +1,5 @@
-#Multi-Modal Search & Recommendation System
-
+## Multi-Modal Search & Recommendation System
+website link : https://searchnrec.streamlit.app/
 An end-to-end e-commerce discovery engine that combines dense vector embeddings for semantic search with collaborative filtering via matrix factorization for personalized user feeds. This architecture replicates the industry-standard Two-Tower retrieval and ranking framework used by modern large-scale marketplace platforms.
 
 Live UI powered by Streamlit, featuring an interactive ML architecture explainer showing real-time linear algebra and tensor matrix shapes.
